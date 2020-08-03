@@ -7,6 +7,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
 	<title>Sahiq Saifi - Full Stack Developer</title>
+
 	<link rel="icon" type="image/png" sizes="16x16" href="assets/img/favicon-16x16.png">
 
 	<!-- Bootstrap CSS -->
@@ -36,6 +37,7 @@
 
 	<!-- Header Area wrapper Starts -->
 	<header id="header-wrap">
+	<div class="sample"></div>
 		<!-- Navbar Start -->
 		<nav class="navbar navbar-expand-lg fixed-top scrolling-navbar indigo">
 			<div class="container">
