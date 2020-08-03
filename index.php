@@ -6,7 +6,7 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-	<title>Sahiq Saifi - Full Stack Developer</title>
+	<title>Shahid Saifi - Full Stack Developer</title>
 
 	<link rel="icon" type="image/png" sizes="16x16" href="assets/img/favicon-16x16.png">
 
