@@ -746,5 +746,7 @@
 
 </body>
 <!-- sample text to check commit -->
+	<!-- sample text to check commit1 -->
+	<!-- sample text to check commit2 -->
 
 </html>
